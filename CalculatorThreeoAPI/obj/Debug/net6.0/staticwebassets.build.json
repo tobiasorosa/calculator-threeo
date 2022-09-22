@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jCIQOXPOJARde8cgzF0j3uzSb4qZbGwagT5t7foBhX0=",
+  "Hash": "tFasd0O+WiMzS/aRf/Xd5T1223IiueOZPYudN3A4mCQ=",
   "Source": "CalculatorThreeoAPI",
   "BasePath": "_content/CalculatorThreeoAPI",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CalculatorThreeoAPI\\wwwroot",
       "Source": "CalculatorThreeoAPI",
-      "ContentRoot": "C:\\Users\\tobia\\Projects\\calculator-threeo\\CalculatorThreeoAPI\\CalculatorThreeoAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tobia\\Projects\\calculator-threeo\\CalculatorThreeoAPI\\wwwroot\\",
       "BasePath": "_content/CalculatorThreeoAPI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\tobia\\Projects\\calculator-threeo\\CalculatorThreeoAPI\\CalculatorThreeoAPI\\wwwroot\\assets\\script.js",
+      "Identity": "C:\\Users\\tobia\\Projects\\calculator-threeo\\CalculatorThreeoAPI\\wwwroot\\assets\\script.js",
       "SourceId": "CalculatorThreeoAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tobia\\Projects\\calculator-threeo\\CalculatorThreeoAPI\\CalculatorThreeoAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tobia\\Projects\\calculator-threeo\\CalculatorThreeoAPI\\wwwroot\\",
       "BasePath": "_content/CalculatorThreeoAPI",
       "RelativePath": "assets/script.js",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\script.js"
     },
     {
-      "Identity": "C:\\Users\\tobia\\Projects\\calculator-threeo\\CalculatorThreeoAPI\\CalculatorThreeoAPI\\wwwroot\\assets\\style.css",
+      "Identity": "C:\\Users\\tobia\\Projects\\calculator-threeo\\CalculatorThreeoAPI\\wwwroot\\assets\\style.css",
       "SourceId": "CalculatorThreeoAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tobia\\Projects\\calculator-threeo\\CalculatorThreeoAPI\\CalculatorThreeoAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tobia\\Projects\\calculator-threeo\\CalculatorThreeoAPI\\wwwroot\\",
       "BasePath": "_content/CalculatorThreeoAPI",
       "RelativePath": "assets/style.css",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\style.css"
     },
     {
-      "Identity": "C:\\Users\\tobia\\Projects\\calculator-threeo\\CalculatorThreeoAPI\\CalculatorThreeoAPI\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\tobia\\Projects\\calculator-threeo\\CalculatorThreeoAPI\\wwwroot\\index.html",
       "SourceId": "CalculatorThreeoAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tobia\\Projects\\calculator-threeo\\CalculatorThreeoAPI\\CalculatorThreeoAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tobia\\Projects\\calculator-threeo\\CalculatorThreeoAPI\\wwwroot\\",
       "BasePath": "_content/CalculatorThreeoAPI",
       "RelativePath": "index.html",
       "AssetKind": "All",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9EJrENnId50oMqGqfKNlwpkf/RyBQgv5kvptMlJ7CSCQeDav7CAqD+K6p6vi3Z8R3i2sfD09E6POxuJx//MPtQ==",
+  "dgSpecHash": "vwE8guESnlcrK4mR/1j9sOcZ3ARxDI47eqziq5sfyWl6LYjNcdLslgy/Zw2HSJ8E+OxHUnJn14L51z2OxzcKQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tobia\\Projects\\calculator-threeo\\CalculatorThreeoAPI\\CalculatorThreeoAPI\\CalculatorThreeoAPI.csproj",
+  "projectFilePath": "C:\\Users\\tobia\\Projects\\calculator-threeo\\CalculatorThreeoAPI\\CalculatorThreeoAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tobia\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\tobia\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
