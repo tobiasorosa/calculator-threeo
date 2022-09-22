@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "qSRDB6QIpYH/DAaJLGnV+kymFNNTMDsGZdWMGCjKLyg=",
+  "Source": "CalculatorThreeoAPI",
+  "BasePath": "_content/CalculatorThreeoAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CalculatorThreeoAPI\\wwwroot",
+      "Source": "CalculatorThreeoAPI",
+      "ContentRoot": "C:\\Users\\tobia\\Projects\\calculator-threeo\\backend\\CalculatorThreeoAPI\\CalculatorThreeoAPI\\wwwroot\\",
+      "BasePath": "_content/CalculatorThreeoAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\tobia\\Projects\\calculator-threeo\\backend\\CalculatorThreeoAPI\\CalculatorThreeoAPI\\wwwroot\\assets\\script.js",
+      "SourceId": "CalculatorThreeoAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tobia\\Projects\\calculator-threeo\\backend\\CalculatorThreeoAPI\\CalculatorThreeoAPI\\wwwroot\\",
+      "BasePath": "_content/CalculatorThreeoAPI",
+      "RelativePath": "assets/script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\tobia\\Projects\\calculator-threeo\\backend\\CalculatorThreeoAPI\\CalculatorThreeoAPI\\wwwroot\\assets\\style.css",
+      "SourceId": "CalculatorThreeoAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tobia\\Projects\\calculator-threeo\\backend\\CalculatorThreeoAPI\\CalculatorThreeoAPI\\wwwroot\\",
+      "BasePath": "_content/CalculatorThreeoAPI",
+      "RelativePath": "assets/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\tobia\\Projects\\calculator-threeo\\backend\\CalculatorThreeoAPI\\CalculatorThreeoAPI\\wwwroot\\index.html",
+      "SourceId": "CalculatorThreeoAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tobia\\Projects\\calculator-threeo\\backend\\CalculatorThreeoAPI\\CalculatorThreeoAPI\\wwwroot\\",
+      "BasePath": "_content/CalculatorThreeoAPI",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
