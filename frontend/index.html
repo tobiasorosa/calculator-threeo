@@ -9,15 +9,17 @@
 </head>
 <body>
   <div class="calculator">
-    <input type="number" name="input1">
-    <input type="number" name="input2">
+    <input type="number" id="input1" value="0">
+    <input type="number" id="input2" value="0">
     <div class="buttons-grid">
-      <button>+</button>
+      <button onclick="add(input1, input2)">+</button>
       <button>-</button>
       <button>*</button>
       <button>÷</button>
     </div>
     <p>Resultado: <span id="result"></span></p>
   </div>
+  
+  <script src="./assets/script.js"></script>
 </body>
 </html>
